@@ -5,3 +5,10 @@ rafce = React Arrow Function Component with Export।
 
 #have to know this:
 <></> this is react fragment
+
+#installations
+--for css --
+npm install tailwindcss @tailwindcss/vite
+
+--for icons--
+npm install lucide-react
